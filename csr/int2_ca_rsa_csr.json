@@ -1,0 +1,16 @@
+{
+  "CN": "Product Intermediate CA",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "CA",
+      "O": "Organisation"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  }
+}

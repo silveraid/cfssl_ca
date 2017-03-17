@@ -1,0 +1,16 @@
+{
+  "CN": "Organisation Root CA",
+  "key": {
+     "algo": "rsa",
+     "size": 4096
+  },
+  "names": [
+    {
+      "C": "CA",
+      "O": "Organisation"
+    }
+  ],
+  "ca": {
+    "expiry": "262800h"
+  }
+}
