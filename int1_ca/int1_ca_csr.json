@@ -1,0 +1,18 @@
+{
+  "CN": "Organisation Intermediate CA",
+  "key": {
+    "algo": "ecdsa",
+    "size": 256
+  },
+  "names": [
+    {
+      "C": "CA",
+      "L": "Toronto",
+      "O": "Organisation",
+      "OU": "Product - Producation"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  }
+}

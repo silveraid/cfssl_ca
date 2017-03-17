@@ -1,0 +1,4 @@
+# Ignoring generated CSRs and key material
+*.pem
+*.csr
+

@@ -1,0 +1,18 @@
+{
+  "CN": "Organisation Root CA",
+  "key": {
+     "algo": "ecdsa",
+     "size": 256
+  },
+  "names": [
+    {
+      "C": "CA",
+      "L": "Toronto",
+      "O": "Organisation",
+      "OU": ""
+    }
+  ],
+  "ca": {
+    "expiry": "262800h"
+  }
+}
